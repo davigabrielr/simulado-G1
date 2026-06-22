@@ -1,7 +1,3 @@
-def multliplo4(numero) 
-  while numero % 4 != 0:
-    numero -= 1
-  returne(numero)
 
 def menu():
   print("1 - somar")
